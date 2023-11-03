@@ -1,1 +1,2 @@
 # Movie-ratings-data-analysis
+In the competitive film industry, understanding viewer preferences is key to strategic planning. This report analyzes movie ratings from 1,097 participants, across 400 movies, uncovering patterns that could inform a movie studio's decisions. Using rigorous statistical tests, it links audience characteristics to their cinematic choices, providing targeted insights for future initiatives.
